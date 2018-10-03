@@ -1,0 +1,6 @@
+[submodule "libs/cpr-example"]
+	path = libs/cpr-example
+	url = git@github.com:whoshuu/cpr-example.git
+[submodule "examples/cpr-example"]
+	path = examples/cpr-example
+	url = git@github.com:whoshuu/cpr-example.git
